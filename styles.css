@@ -1,0 +1,31 @@
+body {
+    background-color: #dfd9ba;
+    color: #1b1a1a;
+    font-family: 'Poppins', sans-serif;
+}
+hr {
+    width: 5%;
+    border-color:  #d4ac7a;
+    border-width: 7px;
+    border-style: none;
+    border-top-style: dotted;
+}
+
+h1, h2 {
+    color: #b89262;
+    font-family: 'Kaushan Script', cursive;
+    
+}
+
+h1 {
+    font-family: 'Kaushan Script', cursive;
+}
+
+.btn {
+    border-radius: 5px;
+    background-color: #b89262;
+    border: 0;
+    color: #1b1a1a;
+    padding: 10px 20px;
+    font-family: 'Poppins', sans-serif;
+}
